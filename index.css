@@ -1,0 +1,19 @@
+html {
+    background-color: antiquewhite;
+    text-align: center;
+  }
+  
+  #quote {
+    color: blue;
+  }
+  
+  
+  #list {
+    text-align: left;
+    margin-left: 24em;
+    margin-right: 24em;
+  }
+  
+  ul > li {
+    margin-top: 8px;
+  }
